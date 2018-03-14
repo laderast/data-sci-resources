@@ -67,3 +67,4 @@ Open invitation to use and extend these materials!
 - laderast@ohsu.edu
 - @tladeras
 - https://laderast.github.io
+- BioData Club: https://biodata-club.github.io
