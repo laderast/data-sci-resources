@@ -13,7 +13,7 @@ output: slidy_presentation
 
 How many of you are involved in helping students use data?
 
-## What are the issues we've encountered with PhD students?
+## What are the issues we've encountered with graduate students?
 
 - What is the appropriate research question?
 - How do we present the data and tell a story?
